@@ -42,7 +42,7 @@ test_transform = transforms.Compose([
 trainset = CustomDataset(root_dir="./data/Train400", transform=train_transform)
 testset = CustomDataset(root_dir='./data/TestData/set12', transform=test_transform)
 # testset = CustomDataset(root_dir='./data/Train400', transform=test_transform)
-trainloader = torch.utils.data.DataLoader(trainset, batch_size=1, shuffle=True,drop_last=True)
+trainloader = torch.utils.data.DataLoader(trainset, batch_size=400, shuffle=True,drop_last=True)
 testloader = torch.utils.data.DataLoader(testset, batch_size=1, shuffle=False)
 
 
@@ -73,11 +73,6 @@ def train_model():
             print(f'loss_{i}:{loss:.8f}')
 
             loss.backward()
-
-            # loss.backward()
-            for name, param in model.named_parameters():
-                if param.grad is not None:
-                    print(f'{name}:Gradient = {param.grad.abs().mean().item()}')
 
             optimizer.step()
 
