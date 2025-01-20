@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="/DynDD_DSG_NLM_1step_34.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/DynDD_DSG_NLM_1step_3ceng_34.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/DynDD_DSG_NLM_noise5_patch=3_win=4.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/debluring_25_1.6_200_10.0/debluring_25_1.6_rho=1.6_DynDD_DSG_NLM_1step34_200_10.0/debluring_25_1.6_rho=1.6_DynDD_DSG_NLM_1step34_200_10.0_01.png.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/denoising_DSG_nlm_10.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/inpainting/inpainting_DSG_NLM_DynDD_NLM_patch=3_win=4_step=1.8_res_200_01.png_10.0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/inpainting/inpainting_DSG_NLM_DynDD_NLM_patch=3_win=4_step=1.8_res_200_02.png_10.0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/inpainting/inpainting_DSG_NLM_DynDD_NLM_patch=3_win=4_step=1.8_res_200_03.png_10.0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/inpainting/inpainting_DSG_NLM_DynDD_NLM_patch=3_win=4_step=1.8_res_200_04.png_10.0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/inpainting/inpainting_DSG_NLM_DynDD_NLM_patch=3_win=4_step=1.8_res_200_05.png_10.0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
